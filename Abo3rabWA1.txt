@@ -1,0 +1,11 @@
+﻿{"version_code":452601,"content":"
+<p>تحديث جديد 6.65</p>
+<p>طريقة التحديث:</p>
+<li>1: بعد الضغط على فتح ستفتح لك صفحة التحديث ستجد روابط باللون الذهبي والاحمر والازرق</li>
+<li>2: اضغط على احد هذه الروابط</li>
+<li>3: في صفحة التحميل والتحديث انزل الى اسفل الصفحة بتجد روابط التحميل.</li>
+<li>4: حمل النسخة الجديدة وثبتها بدون حذف النسخة القديمة</li>
+<p>New Base Updated 6.65</p>
+<p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
+","url":"http://watsabplusarab.com/whatsapp-plus-gold-abo3rab/?id=665"
+}
