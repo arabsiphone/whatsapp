@@ -1,11 +1,20 @@
-﻿{"version_code":452602,"content":"
-<p>6.71</p>
-<p>طريقة التحديث:</p>
-<li>1: بعد الضغط على فتح ستفتح لك صفحة التحديث ستجد روابط باللون الذهبي والاحمر والازرق</li>
-<li>2: اضغط على احد هذه الروابط</li>
-<li>3: في صفحة التحميل والتحديث انزل الى اسفل الصفحة بتجد روابط التحميل.</li>
-<li>4: حمل النسخة الجديدة وثبتها بدون حذف النسخة القديمة</li>
-<p>New Base Updated 6.65</p>
+{"version_code":452650,"content":"
+<p>تحديث 8.00 ضد الحظر</p>
+
+<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
+<li>تمديد صلاحية النسخة لمدة شهرين</li>
+<li>اصلاح مشكلة اغلاق الواتس اب عند فتح محادثة في اصدارات الاندرويد القديم</li>
+<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
+<li>اصلاح لون الدفعات في شاشة المحادثة</li>
+<li>اصلاحات اخرى</li>
+
+<li> Anti-Ban (Please take Backup - Uninstall App / Install GoldWhatsApp v7.10)</li>
+<li> Extend expiry for this Base</li>
+<li> Fixed Hidden Chat Count Showing on Main Screen</li>
+<li> Fixed Payments Color in Attach Menu</li>
+<li> Fixed Crash when open chat in some devices</li>
+<li> Other Fixes</li>
+<p>New Base Updated 7.10</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
-","url":"http://watsabplusarab.com/whatsapp-plus-gold-abo3rab/?id=671"
+","url":"http://watsabplusarab.com/whatsapp-plus-gold-abo3rab/?id=710"
 }
